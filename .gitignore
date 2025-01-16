@@ -5,7 +5,7 @@ docker/*.tar.gz
 docker/*.tar.xz
 
 # Windows build temp cmake file
-CMakeSettings.json
+# CMakeSettings.json
 
 # Ccache tar files generated from Docker build
 .github/workflows/*.tar.gz
@@ -17,7 +17,7 @@ cpp/open3d/visualization/shader/Shader.h
 util/pip_package/setup.py
 
 # CMake temp file from Visual Studio
-CMakeSettings.json
+# CMakeSettings.json
 
 # Temp directories
 3rdparty_downloads
